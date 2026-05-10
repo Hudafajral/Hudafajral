@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Fajral Huda 👋
 
-<!--
-**Hudafajral/Hudafajral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 Informatics Student  
+📊 Learning Data Science, Artificial Intelligence, and Web3  
+🔐 Focused on analytical systems, automation, and modern technology development  
+🧾 Interested in financial validation systems, machine learning, and blockchain innovation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python
+- Pandas
+- Scikit-learn
+- FastAPI
+- SQLAlchemy
+- Solidity
+- Git & GitHub
+
+---
+
+## 🌱 Currently Growing In
+- Data Analysis
+- Machine Learning
+- Backend Development
+- Smart Contract Development
+- System Design
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hudafajral&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+- Email: hudafajral@gmail.com
