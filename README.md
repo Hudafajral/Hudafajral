@@ -1,3 +1,4 @@
+![Banner](./banner.png)
 # Hi, I'm Fajral Huda 👋
 
 ## 🚀 About Me
