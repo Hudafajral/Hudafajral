@@ -8,14 +8,13 @@
 
 ---
 
-## 🛠 Tech Stack
-- Python
-- Pandas
-- Scikit-learn
-- FastAPI
-- SQLAlchemy
-- Solidity
-- Git & GitHub
+## ⚙️ Core Stack
+
+- **Programming:** Python, JavaScript (ES6+), HTML, CSS  
+- **Data Science:** Data Cleaning, Exploratory Data Analysis, Machine Learning, Data Visualization  
+- **Backend Development:** FastAPI, MySQL  
+- **Web3 Development:** Solidity  
+- **Tools:** Git, GitHub, Jupyter Notebook  
 
 ---
 
