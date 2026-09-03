@@ -38,12 +38,12 @@
 
 <div align="center">
   
-  <!-- 1. GRADE STATS (Paling Atas) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Hudafajral&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Grade Stats" />
+  <!-- 1. GRADE STATS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Hudafajral&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="GitHub Grade Stats" />
   
   <br><br>
   
-  <!-- 2. TOP LANGUAGES (Menyusun ke Bawah) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudafajral&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <!-- 2. TOP LANGUAGES -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudafajral&theme=tokyonight&hide_border=true&langs_count=6&v=1" alt="Top Languages" />
 
 </div>
