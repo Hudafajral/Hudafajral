@@ -69,24 +69,6 @@ I'm an Informatics student building toward a specialization in **AI for Finance*
 
 <br>
 
-## 📌 Pinned Repositories
-
-<div align="center">
-
-<!-- Ganti REPO_1 dan REPO_2 dengan nama repo kamu. Kartu ini juga real-time (update sesuai bintang/fork terbaru) -->
-<a href="https://github.com/Hudafajral/REPO_1">
-  <img src="https://github-readme-stats-eta-one-74.vercel.app/api/pin/?username=Hudafajral&repo=REPO_1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Hudafajral/REPO_2">
-  <img src="https://github-readme-stats-eta-one-74.vercel.app/api/pin/?username=Hudafajral&repo=REPO_2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<p align="center"><i>Tips: kamu juga bisa pin repo langsung dari halaman profil GitHub (Customize your pins) — itu akan tampil otomatis di atas README ini tanpa perlu setting apa-apa di sini.</i></p>
-
-<br>
-
 ## 🤝 Let's Connect
 
 <div align="center">
