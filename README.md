@@ -38,12 +38,12 @@
 
 <div align="center">
   
-  <!-- 1. GRADE STATS (Ditambah parameter lengkap untuk membaca semua commit & private) -->
-  <img src="https://github-stats-extended.vercel.app/api?username=Hudafajral&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Grade Stats" />
+  <!-- Menggunakan parameter kustom agar langsung mereset data -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Hudafajral&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=35&sort_by=stars" alt="GitHub Grade Stats" />
   
   <br><br>
   
-  <!-- 2. TOP LANGUAGES (Mengecualikan repo profil agar bahasa aslimu dari repo lain terbaca) -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hudafajral&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=Hudafajral" alt="Top Languages" />
+  <!-- Top Languages dengan versi stabil -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudafajral&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=Hudafajral&layout=normal" alt="Top Languages" />
 
 </div>
