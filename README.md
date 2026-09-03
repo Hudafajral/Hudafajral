@@ -1,36 +1,94 @@
-# Hi, I'm Fajral Huda 👋
+<div align="center">
+
+<img src="https://github.com/Hudafajral.png" width="140" height="140" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #58a6ff;">
+
+# Hi, I'm Hudafajral 👋
+
+### AI for Finance | Data Science Student Deepening AI/ML Expertise | Building RAG & Financial AI Tools
+
+<!-- Ganti LINKEDIN_KAMU dan EMAIL_KAMU dengan link asli kamu -->
+<p>
+  <a href="https://linkedin.com/in/LINKEDIN_KAMU">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:EMAIL_KAMU@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://x.com/X_KAMU">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+</p>
+
+</div>
+
+<br>
 
 ## 🚀 About Me
-🎓 Informatics Student  
-📊 Learning Data Science, Artificial Intelligence, and Web3  
-🔐 Focused on analytical systems, automation, and modern technology development  
-🧾 Interested in financial validation systems, machine learning, and blockchain innovation  
 
----
+I'm an Informatics student building toward a specialization in **AI for Finance** — combining data science, machine learning, and financial systems into practical tools like RAG-based financial advisors and automation pipelines. Currently deepening my AI/ML skills while working on real-world finance automation projects and building in public.
 
-## ⚙️ Core Stack
+- 🎓 Informatics student, currently deepening Data Science & AI/ML
+- 💰 Focused on **AI for Finance** — RAG systems, financial AI advisors, automation
+- 📚 Currently working through certifications in AI, ML, and generative AI engineering
+- ✍️ Building in public — sharing progress on LinkedIn and X
+- 🌏 Open to remote and Singapore-based opportunities
 
-- **Programming:** Python, JavaScript (ES6+), HTML, CSS  
-- **Data Science:** Data Cleaning, Exploratory Data Analysis, Machine Learning, Data Visualization  
-- **Backend Development:** FastAPI, MySQL  
-- **Web3 Development:** Solidity  
-- **Tools:** Git, GitHub, Jupyter Notebook  
+<br>
 
----
+## 🛠 Tech Stack
 
-## 🌱 Currently Growing In
-- Data Analysis
-- Machine Learning
-- Backend Development
-- Smart Contract Development
-- System Design
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
----
+<br>
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hudafajral&show_icons=true)
+## 📊 GitHub Stats
 
----
+<!-- Grade / overview stats di atas -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hudafajral&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Grade Stats" width="480" />
+</div>
 
-## 📫 Connect With Me
-- Email: hudafajral@gmail.com
+<br>
+
+<!-- Top languages tersusun ke bawah (vertikal) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudafajral&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=480" alt="Top Languages" width="480" />
+</div>
+
+<br>
+
+<p align="center"><i>Stats di atas otomatis update setiap ada yang buka profil ini — nggak perlu diedit manual, dia narik data langsung dari repo-repo yang kamu push ke GitHub.</i></p>
+
+<br>
+
+## 📌 Pinned Repositories
+
+<div align="center">
+
+<!-- Ganti REPO_1 dan REPO_2 dengan nama repo kamu. Kartu ini juga real-time (update sesuai bintang/fork terbaru) -->
+<a href="https://github.com/Hudafajral/REPO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hudafajral&repo=REPO_1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Hudafajral/REPO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hudafajral&repo=REPO_2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<p align="center"><i>Tips: kamu juga bisa pin repo langsung dari halaman profil GitHub (Customize your pins) — itu akan tampil otomatis di atas README ini tanpa perlu setting apa-apa di sini.</i></p>
+
+<br>
+
+## 🤝 Let's Connect
+
+<div align="center">
+<p>Always open to collaborate on exciting AI & Finance projects! ✨</p>
+</div>
