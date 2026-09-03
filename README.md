@@ -38,12 +38,11 @@
 
 <div align="center">
   
-  <!-- 1. GRADE STATS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Hudafajral&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="GitHub Grade Stats" />
+  <!-- Menggunakan sintaks Markdown standar untuk bypass blokir -->
+  [![GitHub Grade Stats](https://github-readme-stats.vercel.app/api?username=Hudafajral&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Hudafajral)
   
   <br><br>
   
-  <!-- 2. TOP LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudafajral&theme=tokyonight&hide_border=true&langs_count=6&v=1" alt="Top Languages" />
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hudafajral&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/Hudafajral)
 
 </div>
