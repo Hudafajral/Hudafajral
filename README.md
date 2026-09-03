@@ -53,14 +53,14 @@ I'm an Informatics student building toward a specialization in **AI for Finance*
 
 <!-- Grade / overview stats di atas -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hudafajral&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Grade Stats" width="480" />
+  <img src="https://github-readme-stats-eta-one-74.vercel.app/api?username=Hudafajral&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Grade Stats" width="480" />
 </div>
 
 <br>
 
 <!-- Top languages tersusun ke bawah (vertikal) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudafajral&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=480" alt="Top Languages" width="480" />
+  <img src="https://github-readme-stats-eta-one-74.vercel.app/api/top-langs/?username=Hudafajral&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=480" alt="Top Languages" width="480" />
 </div>
 
 <br>
@@ -75,10 +75,10 @@ I'm an Informatics student building toward a specialization in **AI for Finance*
 
 <!-- Ganti REPO_1 dan REPO_2 dengan nama repo kamu. Kartu ini juga real-time (update sesuai bintang/fork terbaru) -->
 <a href="https://github.com/Hudafajral/REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hudafajral&repo=REPO_1&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eta-one-74.vercel.app/api/pin/?username=Hudafajral&repo=REPO_1&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/Hudafajral/REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hudafajral&repo=REPO_2&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eta-one-74.vercel.app/api/pin/?username=Hudafajral&repo=REPO_2&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
